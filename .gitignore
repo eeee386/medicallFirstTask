@@ -12,6 +12,7 @@ web-report/
 .npm-global
 .idea
 .expo-shared
+yarn.lock
 
 # macOS
 .DS_Store
